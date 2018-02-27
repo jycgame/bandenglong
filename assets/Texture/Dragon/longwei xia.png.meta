@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "3d7ad1e1-b7e1-47e5-a7cc-a333f0cd0c49",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "longwei xia": {
+      "ver": "1.0.3",
+      "uuid": "000aa198-ab19-427f-86b9-16ec062c73f8",
+      "rawTextureUuid": "3d7ad1e1-b7e1-47e5-a7cc-a333f0cd0c49",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 46,
+      "trimY": 0,
+      "width": 36,
+      "height": 128,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

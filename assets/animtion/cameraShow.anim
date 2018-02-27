@@ -1,0 +1,52 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "cameraShow",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 8,
+  "sample": 60,
+  "speed": 0.3,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -810,
+            1170
+          ]
+        },
+        {
+          "frame": 2,
+          "value": [
+            440,
+            1170
+          ]
+        },
+        {
+          "frame": 4,
+          "value": [
+            440,
+            -440
+          ]
+        },
+        {
+          "frame": 6,
+          "value": [
+            -780,
+            -440
+          ]
+        },
+        {
+          "frame": 8,
+          "value": [
+            -810,
+            1170
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

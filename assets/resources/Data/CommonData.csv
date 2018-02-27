@@ -1,0 +1,17 @@
+﻿Name,Value,Desc
+String,float,Skip
+SmallCoin_Value,1,小金币积分
+JinChengWeiDao_Value,100,金诚味道积分
+LongXia_Time,10,小龙虾无敌时间
+ZhaXie_Time,10,大闸蟹降速时间时间
+SpeedDownRate,5,大闸蟹降速幅度(%)
+RouBao_Time,10,大肉包积分翻倍时间
+Multiplicity,2,大肉包积分翻倍数级
+InitialMoveInterval,1,初始移动间隔（秒）
+SpeedUpRate,5,加速百分比(%)
+ItemCountLimite,3,道具数量限制
+FireWorksMaxCount,10,全关卡爆竹最大数量
+FireWorksDisappearTime,10,爆竹自然消失时间
+RebornTime_Min,10,开始生成时间下限
+RebornTime_Max,15,开始生成时间上限
+Appear_FireWorks,180,积分高于等于此设定时出现爆竹

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "8add8083-ed67-4406-831c-42eb0f82d1ad",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Crayfish": {
+      "ver": "1.0.3",
+      "uuid": "d582aad7-8c86-44c0-9aee-d36bd70cd739",
+      "rawTextureUuid": "8add8083-ed67-4406-831c-42eb0f82d1ad",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 4,
+      "offsetY": -3.5,
+      "trimX": 30,
+      "trimY": 40,
+      "width": 76,
+      "height": 55,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

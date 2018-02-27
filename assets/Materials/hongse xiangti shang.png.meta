@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d683b1c0-24cf-4719-a43d-06d7e2d86e2a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "hongse xiangti shang": {
+      "ver": "1.0.3",
+      "uuid": "9c7fc44d-0035-41de-9fcd-0e55add6111d",
+      "rawTextureUuid": "d683b1c0-24cf-4719-a43d-06d7e2d86e2a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 32.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 128,
+      "height": 65,
+      "rawWidth": 128,
+      "rawHeight": 130,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

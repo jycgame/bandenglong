@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "9fbdb61e-6f48-4eed-b0ad-e51123b6d3cc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "hongse xiangti dinggai 2": {
+      "ver": "1.0.3",
+      "uuid": "32cd8900-b6c2-4df5-8700-315300bbe508",
+      "rawTextureUuid": "9fbdb61e-6f48-4eed-b0ad-e51123b6d3cc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 128,
+      "height": 128,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

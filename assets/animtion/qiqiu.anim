@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "qiqiu",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2.0166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "72bf3c74-99a3-44c5-a173-4100c56b064f"
+            }
+          },
+          {
+            "frame": 0.8333333333333334,
+            "value": {
+              "__uuid__": "c268cb81-a5c2-4482-9525-7fff5437535f"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "232d87ea-ce43-4e2f-a486-74661e29cc51"
+            }
+          },
+          {
+            "frame": 1.8333333333333333,
+            "value": {
+              "__uuid__": "ced26075-ec36-4c82-9683-b5b59db69e33"
+            }
+          },
+          {
+            "frame": 2,
+            "value": {
+              "__uuid__": "72bf3c74-99a3-44c5-a173-4100c56b064f"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

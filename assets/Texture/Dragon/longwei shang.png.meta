@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "9f6bb5a1-a261-41b4-b42e-905dba177512",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "longwei shang": {
+      "ver": "1.0.3",
+      "uuid": "b3b44c82-d3b3-4d83-b968-e897bf0eab16",
+      "rawTextureUuid": "9f6bb5a1-a261-41b4-b42e-905dba177512",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 46,
+      "trimY": 0,
+      "width": 36,
+      "height": 128,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
